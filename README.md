@@ -40,7 +40,7 @@ Educational game for children: **[help farmer](https://github.com/Kleszczow/scie
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Kleszczow&show_icons=true&locale=en&theme=transparent" alt="Kleszczow" />
 </span>
 <span>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Kleszczow&show_icons=true&locale=en&theme=transparent" alt="Kleszczow" />
+    <img height="140px" src="https://streak-stats.demolab.com?user=Kleszczow&count_private=true&theme=transparent" alt="Kleszczow">
 </span>
 
 
