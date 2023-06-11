@@ -14,6 +14,7 @@
 
 ## 👨🏽‍🔧 Currently I'm working on
 
+Chess game: **[chess](https://kleszczow.github.io/Chess/)**
 Educational game for children: **[help farmer](https://github.com/Kleszczow/science-game)**
 
 ## ⚙️ Languages and Tools
