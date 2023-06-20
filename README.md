@@ -19,16 +19,16 @@ Educational game for children: **[help farmer](https://github.com/Kleszczow/scie
 
 ## ⚙️ Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,vscode,ps,pr,autocad)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,sass,js,vscode,ps,pr,autocad)
 
 ## 🧠 Want to learn 
 
-![My Skills](https://skillicons.dev/icons?i=angular,ts,docker,nodejs,jest,mysql,php,sass)
+![My Skills](https://skillicons.dev/icons?i=angular,ts,docker,nodejs,jest,mysql,php)
 
 
 ## 🔎 Funfacts about me
 
-📢 Now i'm in the process of learning Sass
+📢 Now i'm in the process of learning nodejs
 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
