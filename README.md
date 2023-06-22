@@ -47,4 +47,4 @@ Educational game for children: **[help farmer](https://github.com/Kleszczow/scie
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kleszczow&label=Profile%20views&color=0e75b6&style=flat" alt="Kleszczow" /> </p>
 
-
+im end my jurney
