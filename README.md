@@ -28,7 +28,7 @@ Educational game for children: **[help farmer](https://github.com/Kleszczow/scie
 
 ## 🔎 Funfacts about me
 
-📢 Now i'm in the process of learning nodejs
+📢 Now i'm in the process of learning PHP
 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
@@ -47,4 +47,3 @@ Educational game for children: **[help farmer](https://github.com/Kleszczow/scie
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kleszczow&label=Profile%20views&color=0e75b6&style=flat" alt="Kleszczow" /> </p>
 
-im end my jurney
