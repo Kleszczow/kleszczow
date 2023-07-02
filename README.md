@@ -19,11 +19,11 @@ Educational game for children: **[help farmer](https://github.com/Kleszczow/scie
 
 ## ⚙️ Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,sass,js,vscode,ps,pr,autocad)
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,sass,js,php,mysql,vscode,ps,pr,autocad)
 
 ## 🧠 Want to learn 
 
-![My Skills](https://skillicons.dev/icons?i=angular,ts,docker,nodejs,jest,mysql,php)
+![My Skills](https://skillicons.dev/icons?i=angular,ts,docker,nodejs,jest,mysql)
 
 
 ## 🔎 Funfacts about me
